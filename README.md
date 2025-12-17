@@ -13,7 +13,7 @@ O MVP cobre todo o ciclo de vida do dado: **Ingestão, Modelagem Dimensional (St
 
 Para uma visualização executiva dos insights, foi desenvolvido um dashboard interativo no Databricks. Você pode conferir a estrutura completa e os gráficos no arquivo PDF disponível no repositório:
 
-👉 **[Acesse aqui o Dashboard em PDF (Dashboard_HR_Attrition.pdf)](./Dashboard_HR_Attrition.pdf)**
+👉 **[Acesse aqui o Dashboard em PDF](./Dashboard%20HR%20Attrition.pdf)**
 
 ---
 
