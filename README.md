@@ -9,6 +9,16 @@ O MVP cobre todo o ciclo de vida do dado: **Ingestão, Modelagem Dimensional (St
 
 ---
 
+## 📺 Apresentação em Vídeo
+
+Assista à explicação detalhada do projeto, percorrendo desde a arquitetura de engenharia de dados até os insights finais apresentados no Dashboard:
+
+[![Apresentação do Projeto - HR Attrition](https://img.youtube.com/vi/k55CvqxFAtI/0.jpg)](https://www.youtube.com/watch?v=k55CvqxFAtI)
+
+> 💡 **Instruções:** Clique na imagem acima para abrir o vídeo no YouTube. O vídeo demonstra o funcionamento do notebook e a lógica das análises.
+
+---
+
 ## 📊 Dashboard de BI (Resultados Visuais)
 
 Para uma visualização executiva dos insights, foi desenvolvido um dashboard interativo no Databricks. Você pode conferir a estrutura completa e os gráficos no arquivo PDF disponível no repositório:
